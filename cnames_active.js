@@ -1409,6 +1409,7 @@ var cnames_active = {
   "iiimix": "iiimix.github.io/iiimixjsorg",
   "iio": "iioinc.github.io/iio.js", // noCF? (don´t add this in a new PR)
   "illustrator": "illustratorjs.netlify.app",
+  "instagram":"Instagram.github.io"
   "imagecapture": "googlechrome.github.io/imagecapture-polyfill",
   "imagin": "ilrc.github.io/imagin",
   "imagine": "karimayachi.github.io/imagine",
